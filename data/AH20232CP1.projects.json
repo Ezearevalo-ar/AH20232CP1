@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "652314f0d7e880bbd49dc054"
+  },
+  "name": "Contador de Pelados",
+  "synopsis": "A web application that lets you record the number of people you encounter daily on the street.",
+  "description": "A web project using HTML, CSS, JavaScript, and Vue.js. This project was developed to keep track of how many people you see on the street in a day.",
+  "release_date": "2022",
+  "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Vue"
+  ],
+  "img": "https://i.imgur.com/giVXnwt.png",
+  "img_alt": "Site developed on GitHub",
+  "repository": "https://github.com/Ezearevalodev/contador-de-pelados",
+  "site": "https://github.com/Ezearevalodev/contador-de-pelados"
+},
+{
+  "_id": {
+    "$oid": "652314f0d7e880bbd49dc055"
+  },
+  "name": "Pokedex",
+  "synopsis": "An interactive web app that provides information about various Pokémon species.",
+  "description": "A web application utilizing HTML, CSS, JS, Bootstrap, and the Pokedex API. It allows users to search for and get information about different Pokémon, and it also implements a Service Worker for offline functionality.",
+  "release_date": "2022",
+  "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "img": "https://i.imgur.com/J3B5Uol.png",
+  "img_alt": "Site developed on GitHub",
+  "repository": "https://github.com/Ezearevalodev/Pokedex",
+  "site": "https://dwt3bv-pokedex-pwa.netlify.app/"
+},
+{
+  "_id": {
+    "$oid": "652314f0d7e880bbd49dc056"
+  },
+  "name": "RapidTools",
+  "synopsis": "A website designed to streamline simple tasks quickly with interactive tools.",
+  "description": "A web project featuring HTML, CSS, JavaScript, and Vue.js. It includes a task manager and password generator, among other useful tools, to simplify daily tasks and provide an interactive and efficient user experience.",
+  "release_date": "2022",
+  "tech": [
+    "HTML",
+    "CSS"
+  ],
+  "img": "https://i.imgur.com/mR08kl5.png",
+  "img_alt": "Rapid tools, a site developed to facilitate simple tasks quickly",
+  "repository": "https://github.com/Ezearevalodev/RapidTools",
+  "site": "https://dwt3bv-rapid-tools.netlify.app/"
+},
+{
+  "_id": {
+    "$oid": "652314f0d7e880bbd49dc057"
+  },
+  "name": "Cloud Shop",
+  "synopsis": "An e-commerce platform built primarily with PHP and MySQL, featuring user registration and an admin dashboard.",
+  "description": "This project involves building an online store using PHP and MySQL. Users can register, and administrators can log in. The site features a product catalog and a dashboard for administrators.",
+  "release_date": "",
+  "tech": [
+    "PHP",
+    "CSS"
+  ],
+  "img": "https://i.imgur.com/kZV8LPb.png",
+  "img_alt": "Cloud vape shop",
+  "repository": "https://github.com/Ezearevalodev/E-commerce",
+  "site": "https://cloudshop.netlify.app/"
+},
+{
+  "_id": {
+    "$oid": "652314f0d7e880bbd49dc058"
+  },
+  "name": "Aragoge",
+  "synopsis": "A marketplace designed for high-performance athletes and professionals, serving as the final project for a web design and programming course.",
+  "description": "A final project for the Web Design and Programming course at Escuela Da Vinci. Aragoge is a marketplace for high-performance athletes and professionals, developed using PHP, MySQL, Bootstrap, MongoDB, Laravel, and Vue.",
+  "release_date": "2023",
+  "tech": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "bootstrap",
+    "MongoDB",
+    "MySQL"
+  ],
+  "img": "https://i.imgur.com/giVXnwt.png",
+  "img_alt": "Final project of the career, Marketplace for professionals and athletes",
+  "repository": "https://github.com/Ezearevalodev/aragoge",
+  "site": "https://github.com/Ezearevalodev/aragoge"
+},
+{
+  "_id": {
+    "$oid": "6524d1e9188698752503ada4"
+  },
+  "name": null,
+  "synopsis": null,
+  "description": null,
+  "release_date": null,
+  "tech": null,
+  "img_alt": null,
+  "repository": null,
+  "site": null
+}]
